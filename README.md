@@ -2,7 +2,7 @@
 
 > Build. Learn. Repeat.
 
-Développeuse .NET en constante évolution, actuellement en formation FULLSTACK .NET chez TehnoFuturTIC.
+Développeuse .NET en constante évolution, actuellement en formation FULLSTACK .NET chez TechnoFuturTIC.
 
 J'aime transformer des idées en applications concrètes, découvrir de nouvelles technologies et améliorer mes compétences jour après jour.
 
