@@ -1,16 +1,27 @@
-## Hi there 👋
+# Liskara 🦊
 
-<!--
-**LiskaraDev/LiskaraDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Build. Learn. Repeat.
 
-Here are some ideas to get you started:
+Développeuse .NET en constante évolution.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+J'aime transformer des idées en applications concrètes, découvrir de nouvelles technologies et améliorer mes compétences jour après jour.
+
+## Technologies
+
+💠 C#
+💠 ASP.NET Core
+💠 SQL
+💠 Git
+
+## Objectifs 2026
+
+- Développer des projets complets
+- Approfondir l'écosystème .NET
+- Maîtriser Git et GitHub
+- Construire un portfolio solide
+
+## Projets
+
+Chaque dépôt représente une étape de mon évolution en tant que développeuse.
+
+> 🦊 Code by moonlight, debug by daylight.
